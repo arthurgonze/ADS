@@ -1,2 +1,1 @@
 wget -q -O gapminder.csv http://bit.ly/2uh4s3g
-wget -q -O Data/120-years-of-olympic-history-athletes-and-results.csv https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/download
